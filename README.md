@@ -1,3 +1,5 @@
+* 安装：npm install
+* 运行：npr start
 * 环境要求
 1) npm 包管理工具
 2) 安装node
