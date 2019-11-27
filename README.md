@@ -1,7 +1,7 @@
 * 环境要求
 1) npm 包管理工具
 2) 安装node
-3） https://www.npmjs.com/
+3) https://www.npmjs.com/
 
 * 安装myqsl
 1) 需要mysql
